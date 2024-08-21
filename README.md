@@ -63,12 +63,5 @@ July 31 04:11:32 mycomputername CRON[51253]: ERROR: Failed to start CRON job due
 
 ## Contributing
 
-Feel free to fork the repository and submit pull requests. Contributions are welcome!
+Please feel free to fix the repository and submit pull requests. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify or expand on this as needed!
